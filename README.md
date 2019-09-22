@@ -8,13 +8,18 @@
    e. Sign up and paging to select course
    f. Check validation for mandatory course
    g. Select course and paging to input phone number
-   h. Select timezone and input phone number
-   i. Submit and go to the dashboard
-   j. Paging to check timezone
-   k. Edit timezone and submit
-   a. 
-   a. 
-   a. 
-   a. 
-https://streamable.com/shii4 --> Sign Up with Registered Email
-https://streamable.com/u7dgc --> Login with Email
+   h. Check validation for mandatory phone number
+   i. Select timezone and input phone number
+   j. Submit and go to the dashboard
+   k. Paging to check timezone
+   l. Edit timezone and submit
+
+2. https://streamable.com/shii4 --> Sign Up with Registered Email
+   Test Case: Check validation when sign up with registered email
+
+3. https://streamable.com/u7dgc --> Login with Email
+   Test Case: 
+   a. Opening browser and paging to url
+   b. Inputting data
+   c. Set visible for password
+   d. Login and paging to dashboard
